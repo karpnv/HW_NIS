@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dictionaries>
+<dictionaries>
+  <dictionary1>
+    <name>Краткий словарь синонимов русского языка</name>
+    <year>2007</year>
+    <words amount="4000" unit="син">Объём</words>
+    <dateline author="Горбачевич К.С." publisher="Эксмо">Выходные данные</dateline>
+  </dictionary1>
+  <dictionary2>
+	  <name>Орфоэпический словарь русского языка</name>
+	  <year>2006</year>
+	  <words amount="18000" unit="сл">Объём</words>
+	  <dateline author="Новинская Н.И." publisher="Феникс">Выходные данные</dateline>
+  </dictionary2>
+  <dictionary3>
+	  <name>Немецко-русский словарь</name>
+	  <year>1988</year>
+	  <words amount="20000" unit="сл">Объём</words>
+	  <dateline author="Глен-Шестакова Н.В." publisher="Русский язык">Выходные данные</dateline>
+  </dictionary3>
+  <dictionary4>
+	  <name>Этимологический словарь русского языка для школьников</name>
+	  <year>2003</year>
+	  <words amount="4500" unit="сл">Объём</words>
+	  <dateline author="Карантиров С.И." publisher="Славянский дом книги">Выходные данные</dateline>
+  </dictionary4>
+  <dictionary5>
+	  <name>Англо-русский словарь</name>
+	  <year>1981</year>
+	  <words amount="20000" unit="сл">Объём</words>
+	  <dateline author="Бункин Г.И." publisher="Русский язык">Выходные данные</dateline>
+  </dictionary5>
+  <dictionary6>
+	  <name>Испанско-русский, русско-испанский словарь</name>
+	  <year>2011</year>
+	  <words amount="50000" unit="сл">Объём</words>
+	  <dateline author="Бедрина Е." publisher="ВАКО">Выходные данные</dateline>
+  </dictionary6>
+  <dictionary7>
+	  <name>Краткий русско-китайский и китайско-русский словарь</name>
+	  <year>2008</year>
+	  <words amount="18300" unit="ст">Объём</words>
+  	<dateline author="У Кэли" publisher="Вече">Выходные данные</dateline>
+  </dictionary7>
+  <dictionary8>
+	  <name>Русско-английский словарь научно-технической лексики</name>
+	  <year>1992</year>
+	  <words amount="30000" unit="сл">Объём</words>
+	  <dateline author="Кузнецов Б.В." publisher="Московская международная школа переводчиков">Выходные данные</dateline>
+  </dictionary8>
+  <dictionary9>
+	  <name>Англо-русский, русско-английский словарь</name>
+	  <year>1975</year>
+	  <words amount="18000" unit="сл">Объём</words>
+	  <dateline author="Займовский С.Г." publisher="Русский язык">Выходные данные</dateline>
+  </dictionary9>
+  <dictionary10>
+	  <name>Новый китайско-русский словарь</name>
+	  <year>2009</year>
+	  <words amount="30100" unit="ст">Объём</words>
+	  <dateline author="Котов А.В." publisher="Дрофа">Выходные данные</dateline>
+  </dictionary10>
+</dictionaries>
