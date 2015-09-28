@@ -1,0 +1,153 @@
+<menu>
+<dish name="Гуляш с картофельным пюре" preptime="10мин" price="350р">
+<title>
+Фирменное блюдо 
+</title>
+<composition>
+<ingredient amount="100" unit="грамм">
+Говядина
+</ingredient>
+<ingredient amount="150" unit="грамм">
+Картофель
+</ingredient>
+<ingredient amount="50" unit="мл">
+Соус
+</ingredient>
+</composition>
+</dish>
+<dish name="борщ" preptime="15мин" price="200р">
+<title>
+Борщ со свининой
+</title>
+<composition>
+<ingredient amount="50" unit="грамм">
+Свинина
+</ingredient>
+<ingredient amount="60" unit="грамм">
+Капуста
+</ingredient>
+<ingredient amount="60" unit="грамм">
+Свёкла
+</ingredient>
+<ingredient amount="30" unit="грамм">
+Картофель
+</ingredient>
+</composition>
+</dish>
+<dish name="стейк" preptime="25мин" price="520р">
+<title>
+Стейк из говядины 
+</title>
+<composition>
+<ingredient amount="150" unit="грамм">
+Мраморная говядина
+</ingredient>
+<ingredient amount="50" unit="мл">
+Соус барбекю
+</ingredient>
+</composition>
+</dish>
+<dish name="сибас" preptime="15мин" price="550р">
+<title>
+Сибас с гранатовым соусом 
+</title>
+<composition>
+<ingredient amount="1" unit="шт">
+Сибас
+</ingredient>
+<ingredient amount="50" unit="мл">
+Гранатовый соус
+</ingredient>
+</composition>
+</dish>
+<dish name="пельмени с сыром" preptime="10мин" price="270р">
+<title>
+Пельмени «по-английски» 
+</title>
+<composition>
+<ingredient amount="80" unit="грамм">
+Тесто
+</ingredient>
+<ingredient amount="140" unit="грамм">
+Говядина
+</ingredient>
+<ingredient amount="60" unit="грамм">
+Сыр Чеддер
+</ingredient>
+</composition>
+</dish>
+<dish name="крылья" preptime="15мин" price="350">
+<title>
+Куриные крылышки с соусом blue cheese 
+</title>
+<composition>
+<ingredient amount="300" unit="грамм">
+Куриные крылышки
+</ingredient>
+<ingredient amount="50" unit="мл">
+Соус blue cheese
+</ingredient>
+</composition>
+</dish>
+<dish name="рис" preptime="10мин" price="90">
+<title>
+Рис с овощами 
+</title>
+<composition>
+<ingredient amount="120" unit="грамм">
+Рис
+</ingredient>
+<ingredient amount="20" unit="грамм">
+Сладкий перец
+</ingredient>
+<ingredient amount="20" unit="грамм">
+Огурцы
+</ingredient>
+<ingredient amount="20" unit="грамм">
+Томаты
+</ingredient>
+</composition>
+</dish>
+<dish name="фри" preptime="15мин" price="90">
+<title>
+Картофель фри 
+</title>
+<composition>
+<ingredient amount="150" unit="грамм">
+Картофель
+</ingredient>
+</composition>
+</dish>
+<dish name="штрудель1" preptime="25мин" price="300">
+<title>
+Штрудель с вишней 
+</title>
+<composition>
+<ingredient amount="140" unit="грамм">
+Вишня
+</ingredient>
+<ingredient amount="50" unit="грамм">
+Тесто
+</ingredient>
+<ingredient amount="40" unit="грамм">
+Ванильное мороженое
+</ingredient>
+</composition>
+</dish>
+<dish name="штрудель2" preptime="25мин" price="300">
+<title>
+Штрудель с яблоком 
+</title>
+<composition>
+<ingredient amount="140" unit="грамм">
+Яблоко
+</ingredient>
+<ingredient amount="50" unit="грамм">
+Тесто
+</ingredient>
+<ingredient amount="40" unit="грамм">
+Шоколадное мороженое
+</ingredient>
+</composition>
+</dish>
+</menu>
