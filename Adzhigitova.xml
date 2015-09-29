@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE actor>
+<actors>
 <actor name="Логан Уэйд Лерман" birthday="19 января" year="1992" born="Беревли Хилз, Калифорния, США">
    <title>
       Логан Лерман
@@ -266,3 +267,4 @@
      </fact>
    </interestingthings>
 </actor>
+</actors>
