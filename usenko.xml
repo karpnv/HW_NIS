@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
+
+<start>
 <personal_info>
   <person ID="100">
     <sex>female</sex>
@@ -16,8 +18,6 @@
   </person> 
 </personal_info>
 
-
-<?xml version="1.0"?>
 <book genre="fantasy" year="1954">
    <author>Tolkien</author>
    <title>Властелин_колец</title>
@@ -25,59 +25,53 @@
    <contents>Prologue Book1 Book2</contents>
 </book>
 
-
-<?xml version="1.0"?>
 <shopping_list>
-   <heading>To buy:<heading>
+   <heading>To buy:</heading>
    <list>
     <item amount="1" unit="kg">Apples</item>
 	<item amount="1" unit="bottle">Milk</item>
 	<item amount="2" unit="package">Eggs</item>
    </list>
    <note>P.S. Please, don't buy chocolate bars for Tommy!</note>
- </shopping_list>
+</shopping_list>
    
 
    
-<?xml version="1.0"?>
 <timetable date="September 2015">
    <heading>Law</heading>
-   <week_day="Monday">
+   <week_day name="Monday">
     <start>10-00</start>
-    <finish>14-00<finish>
+    <finish>14-00</finish>
    </week_day>
-   <week_day="Tuesday">
+   <week_day name="Tuesday">
     <start>9-00</start>
-    <finish>12-00<finish>
+    <finish>12-00</finish>
    </week_day>
-   <week_day="Wednesday">
+   <week_day name="Wednesday">
     <start>8-00</start>
-    <finish>12-30<finish>
+    <finish>12-30</finish>
    </week_day>
-   <week_day="Friday">
+   <week_day name="Friday">
     <start>10-00</start>
-    <finish>13-00<finish>
+    <finish>13-00</finish>
    </week_day>
 </timetable>
    
 
-
-<?xml version="1.0"?>
 <doctor_recipe>
-  <date>10 September</date>
-  <meds>
-    <item amount="3" unit="pillows" times="3">Анаферон</item>
+	<date>10 September</date>
+	<meds>
+	<item amount="3" unit="pillows" times="3">Анаферон</item>
 	<note>Принимать после еды в течение 10 дней</note>
 	<item amount="4" unit="ч.л." times="2">Доктор_Мом</item>
 	<note>Принимать 5 дней</note>
 	<item amount="1" unit="стакан" times="1">Ромашка</item>
 	<note>Полоскать горло отваром перед сном</note>
-  </meds>
-  <next_date>15 September</next_date>
-  </doctor_recipe>
+	</meds>
+	<next_date>15 September</next_date>
+</doctor_recipe>
   
 
-<?xml version="1.0"?>
 <invitation>
   <info>
    <occasion>Birthday party</occasion>
@@ -91,8 +85,6 @@
 </invitation>
   
   
-
-<?xml version="1.0"?>
 <certificate>
   <h1>Certificate of completion</h1>
   <h2>This certificate is awarded to</h2>
@@ -111,8 +103,6 @@
 </certificate>
 
 
-
-<?xml version="1.0"?>
 <lyrics_web>
   <song>
     <h1>Love me do</h1>
@@ -127,7 +117,6 @@
 </lyrics_web>
   
 
-<?xml version="1.0"?>
 <sms_talk>
  <sms1>
   <from>
@@ -154,7 +143,6 @@
 </sms_talk>
  
 
-<?xml version="1.0"?>
 <personal_page>
  <person ID="123234">
  <info>
@@ -177,3 +165,20 @@
  </recent_posts>
  </person>
 </personal_page>
+
+</start>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
