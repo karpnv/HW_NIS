@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE film>
+<films>
 <film filmname="Девчата" year="1961" time="92min">
    <title>
       Девчата
@@ -283,3 +284,4 @@
     </step>
    </importantthings>
 </film>
+</films>
