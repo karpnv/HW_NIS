@@ -65,7 +65,7 @@
 <?xml version="1.0"?>
 <doctor_recipe>
   <date>10 September</date>
-  <meds
+  <meds>
     <item amount="3" unit="pillows" times="3">Анаферон</item>
 	<note>Принимать после еды в течение 10 дней</note>
 	<item amount="4" unit="ч.л." times="2">Доктор_Мом</item>
