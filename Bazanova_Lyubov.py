@@ -11,7 +11,7 @@ for element in root1.iter('ingredient'):
 
     for attrib in attribute_list:
         sub_elem = etree.SubElement(element, 'specis')
-        material = sub_elem.text =''
+        specis = sub_elem.text =''
 
 output = etree.tostring(root1, pretty_print=True)
 print(output.decode().encode())
