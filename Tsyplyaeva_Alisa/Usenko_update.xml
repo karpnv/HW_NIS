@@ -1,0 +1,166 @@
+<start>
+<Just_a_test_element>TESTING LXML<test_sub property="test_property"/></Just_a_test_element><personal_info>
+  <person ID="100" age="unknown">
+    <sex>female</sex>
+    <first_name>Ann</first_name>
+    <last_name>Bogdanova</last_name>
+	<address>Moscow</address>
+	<phone>232355</phone>
+  </person>
+  <person ID="101" age="unknown">
+    <sex>male</sex>
+    <first_name>Oleg</first_name>
+    <last_name>Borisov</last_name>
+	<address>Barnaul</address>
+	<phone>678543</phone>
+  </person> 
+</personal_info>
+
+<book genre="fantasy" year="1954">
+   <author>Tolkien</author>
+   <title>&#1042;&#1083;&#1072;&#1089;&#1090;&#1077;&#1083;&#1080;&#1085;_&#1082;&#1086;&#1083;&#1077;&#1094;</title>
+   <foreword>This tale grew in the telling, until it became a history of the Great War of the Ring...</foreword>
+   <contents>Prologue Book1 Book2</contents>
+</book>
+
+<shopping_list>
+   <heading>To buy:</heading>
+   <list>
+    <item amount="1">Apples</item>
+	<item amount="1">Milk</item>
+	<item amount="2">Eggs</item>
+   </list>
+   </shopping_list>
+   
+
+   
+<timetable date="September 2015">
+   <heading>Law</heading>
+   <week_day name="Monday">
+    <start>10-00</start>
+    <finish>14-00</finish>
+   </week_day>
+   <week_day name="Tuesday">
+    <start>9-00</start>
+    <finish>12-00</finish>
+   </week_day>
+   <week_day name="Wednesday">
+    <start>8-00</start>
+    <finish>12-30</finish>
+   </week_day>
+   <week_day name="Friday">
+    <start>10-00</start>
+    <finish>13-00</finish>
+   </week_day>
+</timetable>
+   
+
+<doctor_recipe>
+	<date>10 September</date>
+	<meds>
+	<item amount="3" unit="pillows" times="3">&#1040;&#1085;&#1072;&#1092;&#1077;&#1088;&#1086;&#1085;</item>
+	<note>&#1055;&#1088;&#1080;&#1085;&#1080;&#1084;&#1072;&#1090;&#1100; &#1087;&#1086;&#1089;&#1083;&#1077; &#1077;&#1076;&#1099; &#1074; &#1090;&#1077;&#1095;&#1077;&#1085;&#1080;&#1077; 10 &#1076;&#1085;&#1077;&#1081;</note>
+	<item amount="4" unit="&#1095;.&#1083;." times="2">&#1044;&#1086;&#1082;&#1090;&#1086;&#1088;_&#1052;&#1086;&#1084;</item>
+	<note>&#1055;&#1088;&#1080;&#1085;&#1080;&#1084;&#1072;&#1090;&#1100; 5 &#1076;&#1085;&#1077;&#1081;</note>
+	<item amount="1" unit="&#1089;&#1090;&#1072;&#1082;&#1072;&#1085;" times="1">&#1056;&#1086;&#1084;&#1072;&#1096;&#1082;&#1072;</item>
+	<note>&#1055;&#1086;&#1083;&#1086;&#1089;&#1082;&#1072;&#1090;&#1100; &#1075;&#1086;&#1088;&#1083;&#1086; &#1086;&#1090;&#1074;&#1072;&#1088;&#1086;&#1084; &#1087;&#1077;&#1088;&#1077;&#1076; &#1089;&#1085;&#1086;&#1084;</note>
+	</meds>
+	<next_date>NEVER COME AGAIN</next_date>
+</doctor_recipe>
+  
+
+<invitation>
+  <info>
+   <occasion>Birthday party</occasion>
+   <date>14 October</date>
+   <time>12-30</time>
+   <place>Central Perk NY</place>
+  </info>
+  <to>George White</to>
+  <from>Bella Jordan</from>
+  <message>Dear George, I'll be glad to see you this Sunday to celebrate my birthday!</message>
+</invitation>
+  
+  
+<certificate>
+  <h1>Certificate of completion</h1>
+  <h2>This certificate is awarded to</h2>
+  <to>Alan Rickman</to>
+  <for>for successful completion of the Hour of Code</for>
+  <from>
+   <signature>H.B. Carter</signature>
+   <name>Helena Bonham Carter</name>
+   <position>director</position>
+  </from>
+  <date>
+   <day>20</day>
+   <month>April</month>
+   <year>2014</year>
+  </date>
+</certificate>
+
+
+<lyrics_web>
+  <song>
+    <h1>Love me do</h1>
+    <info>
+    <genre>rock</genre>
+    <year>1963</year>
+	<authors>Lennon, McCartney</authors>
+    </info>
+    <lyrics>Love, love me do. You know I love you. I'll always be true. So, please, love me do</lyrics>
+  </song>
+  <website>www.allsongs.com</website>
+</lyrics_web>
+  
+
+<sms_talk>
+ <sms1>
+  <from>
+   <number>89204567834</number>
+   <name>Arthur Wesley</name>
+  </from>
+  <to>
+   <number>89207865666</number>
+   <name>Molly Wesley</name>
+  </to>
+  <message>Molly, please, ask Ron to test my Flying Ford.</message>
+ </sms1>
+ <sms2>
+  <from>
+   <number>89207865666</number>
+   <name>Molly Wesley</name>
+  </from>
+  <to>
+   <number>89204567834</number>
+   <name>Arthur Wesley</name>
+  </to>
+  <message>No way!</message>
+ </sms2>
+</sms_talk>
+ 
+
+<personal_page>
+ <person ID="123234" age="unknown">
+ <info>
+  <name>Ian McMillon</name>
+  <age>28</age>
+  <country>UK</country>
+  <education>Academy of Fine Arts</education>
+  <interests>drawing, 3d technologies, cartoons</interests>
+ </info>
+ <recent_posts>
+  <post1>
+   <date>13 March, 2014</date>
+   <text>This is photo of Alex and me at our first exposition of 3d drawing</text>
+   <photo>expo15.jpg</photo>
+  </post1>
+  <post2>
+   <date>17 June, 2015</date>
+   <text>Guys, if smb is going from London to Liverpool this week, please, contact me!</text>
+  </post2>
+ </recent_posts>
+ </person>
+</personal_page>
+
+</start>
