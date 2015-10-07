@@ -5,11 +5,11 @@
 	Платье Calvin Klein
 	</title1>
 	<description>
-		<brend> Бренд: <brendname> Calvin Klein </brendname> </brend>
-		<price> Стоимость: <pricenum> 9400 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1122 </articlenum> </article>
-		<color> Цвет: <colortype> Черный </colortype> </color>
-		<composition> Состав: <compositiontype> Полиэстер 100% </compositiontype>
+		<brend brendname = "Calvin Klein">Бренд</brend>
+		<price pricenum = "9400 руб.">Цена</price>
+		<article articlenum = "1122">Артикул</article>
+		<color colortype = "Черный">Цвет</color>
+		<composition compositiontype = "Полиэстер 100%">Состав</composition>
 		<description> Привлекательное платье модного дизайна. Модель с короткими рукавами выполнена
 		из ткани актуального цвета. Эта вещь станет прекрасной составляющей Вашего повседневного гардероба. </description>
 	</description>
@@ -31,11 +31,11 @@
 	Джинсы 501 СТ для женщин Levi's®
 	</title2>
 	<description>
-		<brend> Бренд: <brendname> Levi's® </brendname> </brend>
-		<price> Стоимость: <pricenum> 7800 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1133 </articlenum> </article>
-		<color> Цвет: <colortype> Светло-голубой </colortype> </color>
-		<composition> Состав: <compositiontype> Хлопок 100% </compositiontype>
+		<brend brendname = "Levi's®">Бренд</brend>
+		<price pricenum = "7800 руб.">Цена</price>
+		<article articlenum = "1133">Артикул</article>
+		<color colortype = "Светло-голубой">Цвет</color>
+		<composition compositiontype = "Хлопок 100%">Состав</composition>
 		<description> Легендарная модель Levi's 501 для женщин, усовершенствованная в стиле boyfriend: 
 		расширенная в верхнем блоке, сужающаяся штанина. Рекомендуется носить подкатанными. </description>
 	</description>
@@ -57,11 +57,11 @@
 	Блузка-туника HUGO BOSS
 	</title3>
 	<description>
-		<brend> Бренд: <brendname> HUGO BOSS </brendname> </brend>
-		<price> Стоимость: <pricenum> 4200 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1144 </articlenum> </article>
-		<color> Цвет: <colortype> Белый </colortype> </color>
-		<composition> Состав: <compositiontype> Вискоза 100% </compositiontype>
+		<brend brendname = "HUGO BOSS">Бренд</brend>
+		<price pricenum = "4200 руб.">Цена</price>
+		<article articlenum = "1144">Артикул</article>
+		<color colortype = "Белый">Цвет</color>
+		<composition compositiontype = "Вискоза 100%">Состав</composition>
 		<description> Блузка-туника с поясом по талии и короткой застежкой на пуговицы - отличный вариант
 		для сочетания и комбинирования, она легко вступает в союз со строгими брюками, джинсами или юбками. </description>
 	</description>
@@ -83,11 +83,11 @@
 	Рубашка-поло Fred Perry
 	</title4>
 	<description>
-		<brend> Бренд: <brendname> Fred Perry </brendname> </brend>
-		<price> Стоимость: <pricenum> 5900 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1155 </articlenum> </article>
-		<color> Цвет: <colortype> Белый </colortype> </color>
-		<composition> Состав: <compositiontype> Хлопок 58%,эластан 2%,модал 40% </compositiontype>
+		<brend brendname = "Fred Perry">Бренд</brend>
+		<price pricenum = "5900 руб.">Цена</price>
+		<article articlenum = "1155">Артикул</article>
+		<color colortype = "Белый">Цвет</color>
+		<composition compositiontype = "Хлопок 58%,эластан 2%,модал 40%">Состав</composition>
 		<description> Стильная рубашка-поло. Короткий рукав. </description>
 	</description>
 	<options>
@@ -108,11 +108,11 @@
 	Юбка Tommy Hilfiger
 	</title5>
 	<description>
-		<brend> Бренд: <brendname> Tommy Hilfiger </brendname> </brend>
-		<price> Стоимость: <pricenum> 6200 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1166 </articlenum> </article>
-		<color> Цвет: <colortype> Черный </colortype> </color>
-		<composition> Состав: <compositiontype> Полиамид 25%,эластан 5%,вискоза 70% </compositiontype>
+		<brend brendname = "Tommy Hilfiger">Бренд</brend>
+		<price pricenum = "6200 руб.">Цена</price>
+		<article articlenum = "1166">Артикул</article>
+		<color colortype = "Черный">Цвет</color>
+		<composition compositiontype = "Полиамид 25%,эластан 5%,вискоза 70%">Состав</composition>
 		<description> Просто и со вкусом. Эта юбка станет незаменимой частью гардероба любой модницы. </description>
 	</description>
 	<options>
@@ -133,11 +133,11 @@
 	Комбинезон PEPE JEANS LONDON
 	</title6>
 	<description>
-		<brend> Бренд: <brendname> PEPE JEANS LONDON </brendname> </brend>
-		<price> Стоимость: <pricenum> 9900 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1177 </articlenum> </article>
-		<color> Цвет: <colortype> Черный </colortype> </color>
-		<composition> Состав: <compositiontype> Лиоцелл 100% </compositiontype>
+		<brend brendname = "PEPE JEANS LONDON">Бренд</brend>
+		<price pricenum = "9900 руб.">Цена</price>
+		<article articlenum = "1177">Артикул</article>
+		<color colortype = "Черный">Цвет</color>
+		<composition compositiontype = "Лиоцелл 100%">Состав</composition>
 		<description> Прекрасно подойдет как для выхода в свет, так и для повседневного стиля. </description>
 	</description>
 	<options>
@@ -158,11 +158,11 @@
 	Водолазка Femme
 	</title7>
 	<description>
-		<brend> Бренд: <brendname> Femme </brendname> </brend>
-		<price> Стоимость: <pricenum> 3400 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1188 </articlenum> </article>
-		<color> Цвет: <colortype> Черный </colortype> </color>
-		<composition> Состав: <compositiontype> Шерсть 50%,акрил 50% </compositiontype>
+		<brend brendname = "Femme">Бренд</brend>
+		<price pricenum = "3400 руб.">Цена</price>
+		<article articlenum = "1188">Артикул</article>
+		<color colortype = "Черный">Цвет</color>
+		<composition compositiontype = "Шерсть 50%,акрил 50%">Состав</composition>
 		<description> Классический гольф с коротким рукавом, декор - резинка по рукавам. </description>
 	</description>
 	<options>
@@ -183,11 +183,11 @@
 	Жакет Tommy Hilfiger
 	</title8>
 	<description>
-		<brend> Бренд: <brendname> Tommy Hilfiger </brendname> </brend>
-		<price> Стоимость: <pricenum> 14000 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1199 </articlenum> </article>
-		<color> Цвет: <colortype> Коралловый </colortype> </color>
-		<composition> Состав: <compositiontype> Хлопок 69%,полиэстер 31% </compositiontype>
+		<brend brendname = "Tommy Hilfiger">Бренд</brend>
+		<price pricenum = "14000 руб.">Цена</price>
+		<article articlenum = "1199">Артикул</article>
+		<color colortype = "Коралловый">Цвет</color>
+		<composition compositiontype = "Хлопок 69%,полиэстер 31%">Состав</composition>
 		<description> Безупречный пошив, модный трикотаж. </description>
 	</description>
 	<options>
@@ -208,11 +208,11 @@
 	Кардиган GUESS
 	</title9>
 	<description>
-		<brend> Бренд: <brendname> GUESS </brendname> </brend>
-		<price> Стоимость: <pricenum> 13300 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1110 </articlenum> </article>
-		<color> Цвет: <colortype> Бежевый </colortype> </color>
-		<composition> Состав: <compositiontype> Полиамид 25%,эластан 1%,вискоза 34%,ангора 25%,акрил 15% </compositiontype>
+		<brend brendname = "GUESS">Бренд</brend>
+		<price pricenum = "13300 руб.">Цена</price>
+		<article articlenum = "1110">Артикул</article>
+		<color colortype = "Бежевый">Цвет</color>
+		<composition compositiontype = "Полиамид 25%,эластан 1%,вискоза 34%,ангора 25%,акрил 15%">Состав</composition>
 		<description> Так приятно накинуть на плечи мягкий трикотаж. Кофта с длинными рукавами и застежкой на молнии. 
 		Края оформлены в рубчик. </description>
 	</description>
@@ -234,11 +234,11 @@
 	Пальто Just Cavalli
 	</title10>
 	<description>
-		<brend> Бренд: <brendname> Just Cavalli </brendname> </brend>
-		<price> Стоимость: <pricenum> 48000 руб. </pricenum> </price>
-		<article> Артикул: <articlenum> 1111 </articlenum> </article>
-		<color> Цвет: <colortype> Бледно-розовый </colortype> </color>
-		<composition> Состав: <compositiontype> Полиамид 18%,шерсть 30%,альпака 52% </compositiontype>
+		<brend brendname = "Just Cavalli">Бренд</brend>
+		<price pricenum = "48000 руб.">Цена</price>
+		<article articlenum = "1111">Артикул</article>
+		<color colortype = "Бледно-розовый">Цвет</color>
+		<composition compositiontype = "Полиамид 18%,шерсть 30%,альпака 52%">Состав</composition>
 		<description> Модное пальто с длинными рукавами и застежкой на кнопки, выполненное из мягкого качественного полотна красивого однотонного цвета. 
 		Модель дополнена боковыми прорезными карманами. Стильный и практичный вариант на каждый день. </description>
 	</description>
