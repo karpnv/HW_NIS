@@ -3,7 +3,7 @@ from lxml import etree
 tree = etree.parse('Shabalina_1.xml')
 root = tree.getroot()
 
-for element in tree.iter('patient type'):
+for element in tree.iter('patient'):
     element.text =u'Bolnoy'
 
 for element in root.iter('hospital'):
