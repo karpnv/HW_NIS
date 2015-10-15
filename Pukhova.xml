@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE catalog>
+<catalog name="Помада для губ Mac">
+	<title1>
+	Ultimate Lipstick
+	</title1>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1600 руб.">Цена</price>
+		<color colortype = "Audacious, Catharina, Dangerously Chic, FemmedeLuxe, Marque, Ravishingly Rich, Soft Pout, The Scene, To Savour, Vogue en Violet">Цвет</color>
+		<weight weightnum = "4 g">Вес</weight>
+		<description> Идеальное сочетание насыщеного оттенка с комфортной текстурой. Легкая, нелипкая формула, которая ложится равномерно и нежно, создавая цвет и сияние. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	<title2>
+	Huggable Lipcolour
+	</title2>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1400 руб.">Цена</price>
+		<color colortype = "Bare Hug, Dramatical, Fashion Force, Flaming Lips, Glamorized, I'm Game, I'm In, Love Feeling, Play It Soft, Soft Talkin'">Цвет</color>
+		<weight weightnum = "3.2 g">Вес</weight>
+		<description> Когда дело касается роскошного макияжа губ, не стоит выбирать между блеском и цветом! Новая формула помады словно «обнимает» ваши губы, насыщая их устойчивым цветом и сиянием. Помада Huggable Lipcolour повышает уровень коллагена для идеально ровных и гладких губ. Уникальная гелевая основа мгновенно увлажняет губы и обеспечивает легчайшее нанесение помады. Стойкость до 6 часов. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+		<title3>
+	Cremesheen Lipstick
+	</title3>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1090 руб.">Цена</price>
+		<color colortype = "Dozen Carnations, Koi Koral, Little Buddha, Nippon, Obi Orange, Pickled Plum, Pretty Boy, Star Magnolia, Sweet Sakura, Tokyo Tizzy">Цвет</color>
+		<weight weightnum = "3 g">Вес</weight>
+		<description> Помада Cremesheen Pearl Lipstick с перламутровыми пигментами представлена 10-ю новыми оттенками, созданными под влиянием эстетики Азии. Незаурядный розовый, современный коралловый и ослепительный красный уверенно контрастируют с любым тоном кожи, оставляя на губах эффектный глянец. Безупречное кремовое покрытие с блеском – новое инь-янь для ваших губ. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	<title4>
+	Lipstick
+	</title4>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1090 руб.">Цена</price>
+		<color colortype = "All Fired Up, Amorous, Angel, Antique Velvet, Blankety, Bombshell, Brave, Brave Red, Brick-O-La, Bronze Shimmer, Candy Yam-Yam, Capricious, Captive, CB 96">Цвет</color>
+		<weight weightnum = "3 g">Вес</weight>
+		<description> Цвет плюс идеальное покрытие для губ. Выделитесь на подиуме. И на улице! Именно помада сделала бренд M∙A∙C знаменитым. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	<title5>
+	Mineralize Rich Lipstick
+	</title5>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1500 руб.">Цена</price>
+		<color colortype = "All Out Gorgeous, Be Fabulous, Boutique Pink, Divine Choice, Dreaminess, Elegant Accent, Everyday Diva, Fashion Trip, Glamour Era, Labradorable, Ladies Who Lunch, Lady At Play, Love Temple, Lush Life, Luxe Naturale, Posh Tone, Pure Pout, So Good, Splurge, Tropical Buzz">Цвет</color>
+		<weight weightnum = "3.6 g">Вес</weight>
+		<description> Комплексов из 77 минералов питает губы и обеспечивает их длительное увлажнение. Легкая, не липкая текстура. Благодаря новой форме помада наноситься одним движением и сохраняет насыщенность оттенка. Покрытие средней плотности. Гладко ложиться. Роскошное покрытие. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+		<title6>
+	Viva Glam Lipstick
+	</title6>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1090 руб.">Цена</price>
+		<color colortype = "I, II, III, IV, V, VI">Цвет</color>
+		<weight weightnum = "3 g">Вес</weight>
+		<description> В 1994 году брендом M∙A∙C была представлена помада VIVA GLAM насыщенного, выразительного красного цвета - универсального оттенка, который привлекает всех. В 1997 году была создана вторая помада VIVA GLAM II - бежево-розового оттенка. VIVA GLAM III - коричнево-сливовая, появилдась в 2000 году. VIVA GLAM IV - сочный розовый оттенок с золотистым блеском - в марте 2002 года. А в марте 2004 дебютировала Viva Glam V - нейтральная розовая помада с приятным мерцающим покрытием. VIVA GLAM VI - новейшее пополнение в линейке VIVA GLAM. Это теплый терракотово-сливовый оттенок с перламутровым отливом. Наносите её отдельно или дополните покрытие блеском VIVA GLAM VI. Вся выручка от продажи помад и блесков VIVA GLAM направляется в M∙A∙C AIDS Fund для оказания поддержки больным ВИЧ/СПИД. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+		<title7>
+	Pro Longwear Lipcreame
+	</title7>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1390 руб.">Цена</price>
+		<color colortype = "Good To Go, Love Forever, Perpetual Flame, Positively Dashing, Prolong, Soft Sell, To The Future, Unlimited">Цвет</color>
+		<weight weightnum = "3.6 g">Вес</weight>
+		<description> Легкая текстура, кремовое покрытие, комфорт и стойкость - вот отличительные особенности этой помады профессионального класса. Практичная - не нужно закреплять верхним слоем, но при этом она держится до 12 часов. Не растекается, не оставляет пятен, сохраняет свой оттенок. Помогает губам оставаться мягкими и увлажненными. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	<title8>
+	Sheen Supreme Lipstick
+	</title8>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1390 руб.">Цена</price>
+		<color colortype = "Asian Flower, Bare Again, Behave Yourself, Blossom Culture, Candy Apple, Can't Get Enough, Fashion City, Full Speed, Good To Be Bad, Gotta Dash, Happy Hibiscus, Impressive, Insanely It, Korean Candy, Moody Bloom, New Temptation, Quite The Thing, Royal Azalea, Supremely Confident, Supreme Style">Цвет</color>
+		<weight weightnum = "3.6 g">Вес</weight>
+		<description> Сочетая в себе насыщенность оттенка помады с глянцевым сиянием блеска, губная помада Sheen Supreme Lipstick бесспорно представляет собой "золотую середину". Легкая, нелипкая формула, которая ложится равномерно и нежно. Обязательный продукт для всех, страстно мечтавших об этой казалось бы невозможной комбинации! </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	<title9>
+	Pro Longwear Lipcolour
+	</title9>
+	<description>
+		<brend brendname = "Mac">Бренд</brend>
+		<price pricenum = "1500 руб.">Цена</price>
+		<color colortype = "Clingpeach, For Keeps, Lasting Lust, Perennial Rose, Stuck On You, Unchanging">Цвет</color>
+		<weight weightnum = "4 g">Вес</weight>
+		<description> Устойчивая помада для губ Pro Longwear Lipcolour с двухфазным нанесением. Нанесите цветную основу для придания губам оттенка, переверните флакон и нанесите прозрачный блеск. Обеспечивает мягкое и нежное покрытие, которое сохраняется даже после поцелуев или принятия пищи. Макияж губ выглядит ровным, гладким и не растекается! Устойчивую помаду Pro Longwear Lipcolour следует удалять с помощью масла для снятия макияжа Cleanse Off Oil. </description>
+	</description>
+	<options>
+		<option>
+		Выбрать оттенок по названию 
+		<!--
+		Добавить в корзину и оформить заказ
+		-->
+		</option>
+		<option>
+		Добавить в избранное
+		</option>
+		<option>
+		Прочитать отзывы
+		</option>
+		<option>
+		Оставить свой отзыв
+		</option>
+	</options>
+	</catalog>
